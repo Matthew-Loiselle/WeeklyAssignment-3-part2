@@ -1,0 +1,33 @@
+.pagetitle {
+  margin: auto;
+  text-align: center;
+  color: black;
+}
+
+body {
+  background-position: right top;
+  background-color: #ceeeea;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.links {
+  margin: auto;
+  border: 1px solid black;
+  font-size: 125%;
+  background-color: white;
+  font-family: 'Times New Roman', serif;
+  width: 160px;
+}
+
+.second-header {
+  text-align: center;
+}
+
+.current-page {
+  text-decoration: underline;
+}
+
